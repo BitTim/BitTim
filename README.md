@@ -9,7 +9,7 @@
 
 - 🕹️ My current side project [BitLeaf](https://github.com/BitTim/BitLeaf)
 
-- 🌱 I’m currently learning **Firebase, Flutter, Unreal Engine**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/BitTim/)
 
