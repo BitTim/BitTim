@@ -9,7 +9,7 @@
 
 - 🕹️ My current side project [BitLeaf](https://github.com/BitTim/BitLeaf)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **React**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/BitTim/)
 
