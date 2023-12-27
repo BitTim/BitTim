@@ -29,12 +29,59 @@
 </p>
 
 <h3>Stats:</h3>
-<p>
-<img height=240 align="center" src="https://streak-stats.demolab.com?user=BitTim&theme=catppuccin-frappe&hide_border=true&border_radius=8" alt="streak-stats" />
-<img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittim&show_icons=true&locale=en&&langs_count=10&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&border_radius=8&card_width=354" alt="language-stats" />
-</p>
 
-<p>
-  <img height=240 align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&borderRadius=8&showBorder=false&lineCount=5&theme=catppuccin_frappe&width=500&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=.net%2C.net%2C512BD4%3Bandroid%2Candroid%2C34A853%3Barduino%2Carduino%2C00878F%3Bflutter%2Cflutter%2C02569B%3B&line2=godotengine%2Cgodot%2C478CBF%3Bcurseforge%2CMinecraft+Forge%2CF16436%3Bnode.js%2Cnode.js%2C339933%3B&line3=cplusplus%2Cc%2B%2B%2C00599C%3Bcsharp%2CC%2523%2C512BD4%3Bopenjdk%2CJava%2C437291%3Bkotlin%2Ckotlin%2C7F52FF%3Blua%2Clua%2C2C2D72%3B&line4=javascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bpython%2Cpython%2C3776AB%3B&line5=jetbrains%2CJB+IDEs%2C000000%3Bwindows%2Cwindows%2C0078D4%3Blinux%2Clinux%2CFCC624%3Bgit%2Cgit%2CF05032%3B" alt="Languages and Tools" />
-<img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=bittim&show_icons=true&locale=en&show=prs_merged&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&border_radius=8&card_width=462" alt="readme-stats" />
-</p>
+<p><picture>
+  <source
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&borderRadius=8&showBorder=false&lineCount=3&theme=catppuccin_mocha&width=800&line1=.net%2C.net%2C512BD4%3Bandroid%2Candroid%2C34A853%3Barduino%2Carduino%2C00878F%3Bflutter%2Cflutter%2C02569B%3Bgodotengine%2Cgodot%2C478CBF%3Bcurseforge%2CMinecraft+Forge%2CF16436%3B&line2=cplusplus%2Cc%2B%2B%2C00599C%3Bcsharp%2CC%2523%2C512BD4%3Bopenjdk%2CJava%2C437291%3Bkotlin%2Ckotlin%2C7F52FF%3Blua%2Clua%2C2C2D72%3Bjavascript%2Cjavascript%2CF7DF1E%3Bpython%2Cpython%2C3776AB%3B&line3=jetbrains%2Cjetbrains%2C000000%3Bvisualstudiocode%2Cvs+code%2C007ACC%3Bgithub%2Cgithub%2C181717%3Bgit%2Cgit%2CF05032%3Bwindows%2Cwindows%2C0078D4%3Blinux%2Clinux%2CFCC624%3Bgnubash%2Cbash%2C4EAA25%3B"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <source
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&borderRadius=8&showBorder=false&lineCount=3&theme=catppuccin_latte&width=800&line1=.net%2C.net%2C512BD4%3Bandroid%2Candroid%2C34A853%3Barduino%2Carduino%2C00878F%3Bflutter%2Cflutter%2C02569B%3Bgodotengine%2Cgodot%2C478CBF%3Bcurseforge%2CMinecraft+Forge%2CF16436%3B&line2=cplusplus%2Cc%2B%2B%2C00599C%3Bcsharp%2CC%2523%2C512BD4%3Bopenjdk%2CJava%2C437291%3Bkotlin%2Ckotlin%2C7F52FF%3Blua%2Clua%2C2C2D72%3Bjavascript%2Cjavascript%2CF7DF1E%3Bpython%2Cpython%2C3776AB%3B&line3=jetbrains%2Cjetbrains%2C000000%3Bvisualstudiocode%2Cvs+code%2C007ACC%3Bgithub%2Cgithub%2C181717%3Bgit%2Cgit%2CF05032%3Bwindows%2Cwindows%2C0078D4%3Blinux%2Clinux%2CFCC624%3Bgnubash%2Cbash%2C4EAA25%3B"
+    media="(prefers-color-scheme: light)"
+  />
+  
+  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&borderRadius=8&showBorder=false&lineCount=3&theme=catppuccin_latte&width=800&line1=.net%2C.net%2C512BD4%3Bandroid%2Candroid%2C34A853%3Barduino%2Carduino%2C00878F%3Bflutter%2Cflutter%2C02569B%3Bgodotengine%2Cgodot%2C478CBF%3Bcurseforge%2CMinecraft+Forge%2CF16436%3B&line2=cplusplus%2Cc%2B%2B%2C00599C%3Bcsharp%2CC%2523%2C512BD4%3Bopenjdk%2CJava%2C437291%3Bkotlin%2Ckotlin%2C7F52FF%3Blua%2Clua%2C2C2D72%3Bjavascript%2Cjavascript%2CF7DF1E%3Bpython%2Cpython%2C3776AB%3B&line3=jetbrains%2Cjetbrains%2C000000%3Bvisualstudiocode%2Cvs+code%2C007ACC%3Bgithub%2Cgithub%2C181717%3Bgit%2Cgit%2CF05032%3Bwindows%2Cwindows%2C0078D4%3Blinux%2Clinux%2CFCC624%3Bgnubash%2Cbash%2C4EAA25%3B" alt="Languages and Tools" />
+</picture></p>
+
+<p><picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=BitTim&theme=catppuccin-mocha&hide_border=true&border_radius=8&card_width=650"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <source
+    srcset="https://streak-stats.demolab.com?user=BitTim&theme=catppuccin-latte&hide_border=true&border_radius=8&card_width=650"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img height=240 align="center" src="https://streak-stats.demolab.com?user=BitTim&theme=catppuccin-latte&hide_border=true&border_radius=8&card_width=650" alt="GitHub Streak" />
+</picture></p>
+
+<p><picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bittim&show_icons=true&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&locale=en&&langs_count=8&layout=compact&hide_border=true&border_radius=8&card_width=633.33"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bittim&show_icons=true&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&locale=en&&langs_count=8&layout=compact&hide_border=true&border_radius=8&card_width=633.33"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittim&show_icons=true&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&locale=en&&langs_count=8&layout=compact&hide_border=true&border_radius=8&card_width=633.33" alt="language-stats" />
+</picture></p>
+
+<p><picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bittim&show_icons=true&theme=catppuccin_mocha&locale=en&show=prs_merged&hide_border=true&border_radius=8&card_width=733.33"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bittim&show_icons=true&theme=catppuccin_latte&locale=en&show=prs_merged&hide_border=true&border_radius=8&card_width=733.33"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=bittim&show_icons=true&theme=catppuccin_latte&locale=en&show=prs_merged&hide_border=true&border_radius=8&card_width=733.33" alt="readme-stats" />
+</picture></p>
