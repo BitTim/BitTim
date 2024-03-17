@@ -6,13 +6,13 @@
 <a href="https://twitter.com/thebittim" target="blank"><img src="https://img.shields.io/twitter/follow/thebittim?logo=twitter&style=flat" alt="thebittim" /></a>
 </p>
 
-- 🔭 I’m currently working on [VexTrack](https://github.com/BitTim/VexTrack)
+- 🔭 I’m currently working on [Valolink](https://github.com/BitTim/Valolink)
 
 - 🕹️ My current side project [BitLeaf](https://github.com/BitTim/BitLeaf)
 
-- 🌱 I’m currently learning **Minecraft Forge**
+- 🌱 I’m currently learning **Minecraft Forge**, **Jetpack Compose**, **Firebase**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/BitTim/)
+- 👨‍💻 All of my projects are available [here](https://github.com/BitTim?tab=repositories)
 
 - 🎧 All of my music is available on [Spotify](https://open.spotify.com/artist/27Xh2ZXegzgznunYkoFwgd?si=5fcyu4zaQaq3C23Ofc3zaw&nd=1)
 
