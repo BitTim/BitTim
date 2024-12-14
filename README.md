@@ -10,7 +10,7 @@
 
 - 🕹️ My current side project [BitLeaf](https://github.com/BitTim/BitLeaf)
 
-- 🌱 I’m currently learning **Minecraft Forge**, **Jetpack Compose**, **Firebase**
+- 🌱 I’m currently learning **Jetpack Compose**, **Supabase**, **KMP**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/BitTim?tab=repositories)
 
