@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Valolink](https://github.com/BitTim/Valolink)
 
-- 🕹️ My current side project [BitLeaf](https://github.com/BitTim/BitLeaf)
+- 🕹️ My current side project [Minepatch](https://github.com/BitTim/Minepatch)
 
-- 🌱 I’m currently learning **Jetpack Compose**, **Supabase**, **KMP**
+- 🌱 I’m currently learning **Jetpack Compose**, **Supabase**, **Rust**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/BitTim?tab=repositories)
 
