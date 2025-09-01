@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Valolink](https://github.com/BitTim/Valolink)
 
-- 🕹️ My current side project [Minepatch](https://github.com/BitTim/Minepatch)
+- 🕹️ My current side project [Encountr](https://github.com/BitTim/Encountr)
 
 - 🌱 I’m currently learning **Jetpack Compose**, **Supabase**, **Rust**
 
