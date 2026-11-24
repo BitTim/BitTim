@@ -6,7 +6,7 @@
 <a href="https://twitter.com/thebittim" target="blank"><img src="https://img.shields.io/twitter/follow/thebittim?logo=twitter&style=flat" alt="thebittim" /></a>
 </p>
 
-- 🔭 I’m currently working on [moss](https://bee.undefbloom.com/undefbloom/moss) / [Mirrored on Github](https;//github.com/bittim/moss)
+- 🔭 I’m currently working on [Moss Launcher](https://bee.undefbloom.com/undefbloom/moss) / [Mirrored on Github](https;//github.com/bittim/moss)
 
 - 🕹️ My current side project [My NixOS setup](https://bee.undefbloom.com/undefbloom/nixos) / [Mirrored on Github](https;//github.com/bittim/nixos)
 
