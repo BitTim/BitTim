@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bittim&label=Profile%20views&color=0e75b6&style=flat" alt="bittim" />
-<a href="https://twitter.com/thebittim" target="blank"><img src="https://img.shields.io/twitter/follow/thebittim?logo=twitter&style=flat" alt="thebittim" /></a>
+<a href="https://twitter.com/undefbloom" target="blank"><img src="https://img.shields.io/twitter/follow/thebittim?logo=twitter&style=flat" alt="thebittim" /></a>
 </p>
 
 - 🔭 I’m currently working on [Moss Launcher](https://bee.undefbloom.com/undefbloom/moss) / [Mirrored on Github](https;//github.com/bittim/moss)
